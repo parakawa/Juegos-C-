@@ -1,0 +1,25 @@
+                    ***SOBRE EL TETRIS***
+Diseñado por Pauek de Minidosis. El juego fue tipeado por
+Paty Arakawa siguiendo el tutorial:
+https://www.youtube.com/playlist?list=PLBF37E6885CD3A358
+
+                       ***ARCHIVOS***
+-Tetris.dev es el achivo del proyecto para abrirlo en Dev c++
+-miniwin.cpp es una librería de funciones creada por Pauek
+ para facilitar la programación de algunos juegos, como ha sido
+ este caso.
+-tetris.cpp contiene el código de este juego en sí.
+-Tetris.exe es el ejecutable.
+
+                     ***INSTRUCCIONES***
+-Usar las teclas de dirección para desplazarse de izquierda a derecha, y hacia abajo
+-La flecha de arriba gira la pieza
+-Pulsar "n" o "N" para subir de nivel.
+-Pulsar "Esc" para Salir.
+
+                        ***CONTACTO***
+Para comentarios, sugerencias y otros, pueden escribir al correo: paty.arakawa@gmail.com
+
+
+
+

@@ -1,0 +1,22 @@
+***INSTRUCCIONES DE USO***
+
+La tecla 'a' es para disparar.
+
+Maximizar la pantalla para poder jugar.
+
+
+
+***TÉRMINOS Y CONDICIONES***
+El código fuente le pertenece a David de https://www.youtube.com/user/deividcoptero
+
+Yo sólo tipeé el código siguiendo su curso en:
+https://www.youtube.com/watch?v=X6lMTEIzjys 
+lo comparto para fines académicos y para quien 
+esté interesado en aprender.
+
+
+
+***CONTACTO***
+Para dudas, aportes, opiniones, o lo que
+quieras comentarme, puedes escribirme a mi correo personal:
+paty.arakawa@gmail.com
